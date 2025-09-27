@@ -5,10 +5,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Flashcards</title>
   <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 </head>
 <body>
   <div class="container">
-    <h1>📚 FIRST SEMESTER FLASHCARDSr</h1>
+    <h1>📚 FIRST SEMESTER FLASHCARDS</h1>
 
     <!-- CIVIC WELFARE TRAINING SERVICE -->
     <section class="subject">
@@ -95,6 +96,63 @@
       <h2>🧑‍💻 FUNDAMENTALS OF PROGRAMMING</h2>
       <p><em>(Coming soon)</em></p>
     </section>
+    
+    <!-- View on GitHub -->
+<div class="github-link">
+  <a href="https://github.com/missdireksyon/mabait-na-edukasyon" target="_blank">
+    <i class="fab fa-github"></i> View on GitHub
+  </a>
+</div>
+
+<!-- FAQ Section -->
+<section class="faq">
+  <h2>❓ Frequently Asked Questions</h2>
+
+  <div class="faq-item">
+    <button class="faq-toggle">Why did you make a whole repository/website for this?</button>
+    <div class="faq-content">
+      <p>Actually I didn't really want to but this is the best way for me to learn how to code as well as be able to share my flashcard links I worked so hard for.</p>
+    </div>
   </div>
+
+  <div class="faq-item">
+    <button class="faq-toggle">Are these links free to use?</button>
+    <div class="faq-content">
+      <p>Yes, all links go directly to shared decks but may <b>require sign-up</b> to use.</p>
+    </div>
+  </div>
+
+  <div class="faq-item">
+    <button class="faq-toggle">Will you add more subjects later?</button>
+    <div class="faq-content">
+      <p>Only the ones listed will be addded sooner or later. Anything else besides that I can no longer guarantee.</p>
+    </div>
+  </div>
+
+  <div class="faq-item">
+    <button class="faq-toggle">Will you share them on Kahoot, Quizlet, Quizziz, Google Forms, and other apps or sites?</button>
+    <div class="faq-content">
+      <p>I will only share them on Noji, StudyKit, Gizmo, and Anki. You may, however, download the decks and import them into your app or site of your choosing.</p>
+    </div>
+  </div>
+  
+  <div class="faq-item">
+    <button class="faq-toggle">Where can I contact you</button>
+    <div class="faq-content">
+      <p>You can contact me on discord @ miscdirecion or on Github.</p>
+    </div>
+  </div>
+</section>
+    
+  </div>
+  
+<script>
+  document.querySelectorAll('.faq-toggle').forEach(button => {
+    button.addEventListener('click', () => {
+      const item = button.parentElement;
+      item.classList.toggle('active');
+    });
+  });
+</script>
 </body>
 </html>
