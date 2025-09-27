@@ -6,7 +6,7 @@ Just a way to share my links while also learning how to code (I died three times
 ### 🌳 NATIONAL SERVICE TRAINING PROGRAM (CIVIC WELFARE TRAINING SERVICE)
 
 <div style="margin-top: 15px; margin-left: 30px; padding: 8px; background: #f8f9fa; border-left: 4px solid #ddd;">
-  > *(Coming soon)*
+> *(Coming soon)*
 </div>
 
 ### 🏀 PHYSICAL ACTIVITIES TOWARDS HEALTH AND FITNESS
