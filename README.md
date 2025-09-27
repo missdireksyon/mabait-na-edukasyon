@@ -1,8 +1,8 @@
-# maBAIT na Edukasyon: FIRST SEMESTER FLASHCARDS
+# maBAIT na Edukasyon: EDUCATIONAL FLASHCARDS
 
 Just a way to share my links while also learning how to code (I died three times while doing this). ENJOY
 
-## Subjects
+## First Semester Subjects
 
 ### 🌳 NATIONAL SERVICE TRAINING PROGRAM (CIVIC WELFARE TRAINING SERVICE)
 > *(Coming soon)*
