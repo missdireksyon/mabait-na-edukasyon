@@ -45,7 +45,7 @@ h1 {
 }
 
 .subject p {
-  color: #e74c3c;
+  color: #000000;
   font-style: italic;
   margin-bottom: 15px;
 }
@@ -54,7 +54,7 @@ h1 {
   display: flex;
   gap: 10px;
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content: flex-start;
 }
 
 .btn {
