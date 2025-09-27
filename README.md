@@ -1,5 +1,4 @@
 # maBAIT na Edukasyon: EDUCATIONAL FLASHCARDS
-### Created with ❤️ by **missdireksyon**
 Just a way to share my links while also learning how to code (I died three times while doing this). ENJOY
 
 ## First Semester Subjects
