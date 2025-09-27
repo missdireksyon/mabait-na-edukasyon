@@ -17,6 +17,7 @@ body {
   margin: 0 auto;
 }
 
+/* Main Title with Divider Line */
 h1 {
   text-align: center;
   margin-bottom: 20px;
@@ -26,35 +27,32 @@ h1 {
   border-bottom: 2px solid #ddd;
 }
 
+/* Subject Card */
 .subject {
   background: white;
   padding: 20px;
   margin: 20px 0;
   border-radius: 10px;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
   transition: transform 0.2s ease;
 }
 
 .subject:hover {
   transform: translateY(-2px);
-  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
 
+/* All Subject Headers */
 .subject h2 {
   color: #282828;
   margin-bottom: 15px;
   font-size: 1.4rem;
 }
 
-.subject p {
-  color: red;
-  font-style: italic;
-  margin-bottom: 15px;
-}
-
+/* Subsection Module */
 .module {
   margin: 20px 0;
-  padding-left: 10px;
+  padding-left: 15px;
   border-left: 4px solid #ddd;
 }
 
@@ -64,13 +62,7 @@ h1 {
   margin-bottom: 8px;
 }
 
-.divider {
-  border: none;
-  height: 1px;
-  background: #ddd;
-  margin: 15px 0;
-}
-
+/* Buttons */
 .buttons {
   display: flex;
   gap: 10px;
@@ -110,15 +102,16 @@ h1 {
   color: white;
 }
 
-@media (max-width: 600px) {
-  .container {
-    padding: 10px;
-  }
-  h1 {
-    font-size: 1.8rem;
-  }
-  .btn {
-    padding: 8px 16px;
-    font-size: 0.9rem;
-  }
+/* Coming Soon Text */
+.subject p {
+  color: red;
+  font-style: italic;
+  margin-bottom: 15px;
+}
+
+/* Add subtle divider between modules */
+.module:not(:last-child) {
+  margin-bottom: 25px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #eee;
 }
