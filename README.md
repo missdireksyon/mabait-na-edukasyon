@@ -5,7 +5,7 @@ Just a way to share my links while also learning how to code (I died three times
 ## First Semester Subjects
 
 ### 🌳 NATIONAL SERVICE TRAINING PROGRAM (CIVIC WELFARE TRAINING SERVICE)
-&nbsp&nbsp&nbsp> *(Coming soon)*
+&nbsp&nbsp&nbsp > *(Coming soon)*
 
 ### 🏀 PHYSICAL ACTIVITIES TOWARDS HEALTH AND FITNESS
 - [🔗 Noji](https://noji.io/shared_deck/v2_kWVbD43xLc_8483595)  
