@@ -1,6 +1,5 @@
 ### maBAIT na Edukasyon: 
 # FIRST SEMESTER FLASHCARDS
---
 
 ## Subjects
 
