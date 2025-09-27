@@ -39,13 +39,13 @@ h1 {
 }
 
 .subject h2 {
-  color: #2980b9;
+  color: #282828;
   margin-bottom: 15px;
   font-size: 1.4rem;
 }
 
 .subject p {
-  color: black;
+  color: red;
   font-style: italic;
   margin-bottom: 15px;
 }
