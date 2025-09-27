@@ -3,7 +3,7 @@ Just a way to share my links while also learning how to code (I died three times
 
 ## First Semester Subjects
 
-### 🌳 NATIONAL SERVICE TRAINING PROGRAM (CIVIC WELFARE TRAINING SERVICE)
+### 🌳 CIVIC WELFARE TRAINING SERVICE
 > *(Coming soon)*
 
 ### 🏀 PHYSICAL ACTIVITIES TOWARDS HEALTH AND FITNESS
