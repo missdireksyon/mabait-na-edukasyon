@@ -1,7 +1,7 @@
-# maBAIT na Edukasyon: EDUCATIONAL FLASHCARDS
+# maBAIT na Edukasyon: Flashcards
 Just a way to share my links while also learning how to code (I died three times while doing this). ENJOY
 
-## First Semester Subjects
+## Midterm Subjects
 
 ### 🌳 CIVIC WELFARE TRAINING SERVICE
 > *(Coming soon)*
