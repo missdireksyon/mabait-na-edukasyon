@@ -25,25 +25,25 @@ Just a way to share my links while also learning how to code (I died three times
 > *(Coming soon)*
 
 ### 🌏 THE CONTEMPORARY WORLD
-**Introduction to Globalization**
+⤷ **Introduction to Globalization**
 - [Noji](https://noji.io/shared_deck/v2_Pv9dnhtqCg_8483595)  
 - [Studykit](https://studykit.app/decks/a7c51d32-6c70-4a3b-8caf-8c286ca4020e)
 - Gizmo (Pending)
 - Anki (Pending)
 
-**The Structure and Theories of Globalization**
+⤷ **The Structure and Theories of Globalization**
 - [Noji](https://noji.io/shared_deck/v2_4TGVTmnoLX_8483595)  
 - [Studykit](https://studykit.app/decks/267a5dab-f9ae-4474-9399-2d40f8eca4a9)
 - Gizmo (Pending)
 - Anki (Pending)
   
-**Facilitators of Globalization**
+⤷ **Facilitators of Globalization**
 - [Noji](https://noji.io/shared_deck/v2_Uf4hB8YvXF_8483595)  
 - [Studykit](https://studykit.app/decks/ba8c3edd-0b7c-41bf-befc-dfd4a6cb939d)
 - Gizmo (Pending)
 - Anki (Pending)
   
-**Global Interstate System and Global Governance**
+⤷ **Global Interstate System and Global Governance**
 - [Noji](https://noji.io/shared_deck/v2_A6uKAX16RM_8483595)  
 - [Studykit](https://studykit.app/decks/c5c49e2e-512d-4fe4-ba99-c54db8fe141e)
 - Gizmo (Pending)
