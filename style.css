@@ -59,7 +59,7 @@ h1 {
 
 .btn-img {
   display: inline-block;
-  padding: 10px;
+  padding: 12px;
   background: white;
   border: 2px solid #3498db;
   border-radius: 25px;
@@ -75,8 +75,9 @@ h1 {
 .btn-img img {
   width: 60px;
   height: auto;
-  vertical-align: middle;
-  transition: filter 0.3s ease;
+  max-height: 60px;
+  object-fit: contain;
+  object-position: center;
 }
 
 .btn-img:hover {
