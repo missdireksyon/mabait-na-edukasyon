@@ -4,6 +4,9 @@ Just a way to share my links while also learning how to code (I died three times
 ## First Semester Subjects
 
 ### 🌳 NATIONAL SERVICE TRAINING PROGRAM (CIVIC WELFARE TRAINING SERVICE)
+
+
+
  > *(Coming soon)*
 
 ### 🏀 PHYSICAL ACTIVITIES TOWARDS HEALTH AND FITNESS
@@ -13,15 +16,23 @@ Just a way to share my links while also learning how to code (I died three times
 - 🔗 Anki (Pending)
 
 ### 🌐 WEBSYSTEMS AND TECHNOLOGIES
+
+
 > *(Coming soon)*
 
 ### 🧮 INTRODUCTION TO COMPUTING
+
+
 > *(Coming soon)*
 
 ### ⚖️ ETHICS
+
+
 > *(Coming soon)*
 
 ### 🇵🇭 RIZAL
+
+
 > *(Coming soon)*
 
 ### 🌏 THE CONTEMPORARY WORLD
@@ -39,6 +50,8 @@ Just a way to share my links while also learning how to code (I died three times
 - [🔗 Studykit](https://studykit.app/decks/c5c49e2e-512d-4fe4-ba99-c54db8fe141e)
 - 
 ### 🧑‍💻 FUNDAMENTALS OF PROGRAMMING
+
+
 > *(Coming soon)*
 
 ---
