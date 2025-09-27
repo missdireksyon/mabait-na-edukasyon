@@ -5,9 +5,9 @@ Just a way to share my links while also learning how to code (I died three times
 
 ### 🌳 NATIONAL SERVICE TRAINING PROGRAM (CIVIC WELFARE TRAINING SERVICE)
 
-
-
-> *(Coming soon)*
+<div style="margin-top: 15px; margin-left: 30px; padding: 8px; background: #f8f9fa; border-left: 4px solid #ddd;">
+  > *(Coming soon)*
+</div>
 
 ### 🏀 PHYSICAL ACTIVITIES TOWARDS HEALTH AND FITNESS
 - [🔗 Noji](https://noji.io/shared_deck/v2_kWVbD43xLc_8483595)  
@@ -16,23 +16,15 @@ Just a way to share my links while also learning how to code (I died three times
 - 🔗 Anki (Pending)
 
 ### 🌐 WEBSYSTEMS AND TECHNOLOGIES
-
-
 > *(Coming soon)*
 
 ### 🧮 INTRODUCTION TO COMPUTING
-
-
 > *(Coming soon)*
 
 ### ⚖️ ETHICS
-
-
 > *(Coming soon)*
 
 ### 🇵🇭 RIZAL
-
-
 > *(Coming soon)*
 
 ### 🌏 THE CONTEMPORARY WORLD
@@ -50,8 +42,6 @@ Just a way to share my links while also learning how to code (I died three times
 - [🔗 Studykit](https://studykit.app/decks/c5c49e2e-512d-4fe4-ba99-c54db8fe141e)
 - 
 ### 🧑‍💻 FUNDAMENTALS OF PROGRAMMING
-
-
 > *(Coming soon)*
 
 ---
