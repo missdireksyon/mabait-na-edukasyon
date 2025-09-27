@@ -1,7 +1,7 @@
 # maBAIT na Edukasyon: Flashcards
 Just a way to share my links while also learning how to code (I died three times while doing this). ENJOY
 
-## Midterm Subjects
+## ★ Midterm Subjects ★
 
 ### 🌳 CIVIC WELFARE TRAINING SERVICE
 > *(Coming soon)*
@@ -54,7 +54,7 @@ Just a way to share my links while also learning how to code (I died three times
 
 ---
 
-## Possible FAQs
+## ★ Possible FAQs ★
 > Why did you make a whole repository/website for this?
 Actually I didn't really want to but this is the best way for me to learn how to code as well as be able to share my flashcard links I worked so hard for
 > Are these links free to use?
@@ -68,5 +68,5 @@ You can contact me on **Discord** (miscdirecion) or on **Github** (missdireksyon
 
 ---
 
-## Want to Help?
+## ★ Want to Help? ★
 Contact me on **Discord**, **Github**, or even **Messenger** for more information.
