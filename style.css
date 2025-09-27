@@ -50,45 +50,43 @@ h1 {
   margin-bottom: 15px;
 }
 
-.buttons {
+.badges {
   display: flex;
   gap: 10px;
   flex-wrap: wrap;
   justify-content: flex-start;
 }
 
-.btn-img {
-  display: inline-block;
-  padding: 10px;
-  background: white;
-  border: 2px solid #3498db;
-  border-radius: 25px;
-  transition: all 0.3s ease;
-  width: 120px;
-  height: 60px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  overflow: hidden;
+.badge {
+  padding: 8px 12px;
+  min-width: auto;
 }
 
-.btn-img img {
-  width: 100px;      
+.badge img {
+  width: 24px;
   height: auto;
-  max-height: 50px; 
-  object-fit: contain;
-  object-position: center;
-  transition: filter 0.3s ease;
 }
 
-.btn-img:hover {
+.badge span {
+  font-size: 0.9rem;
+}
+
+.badge:hover {
   background: #3498db;
+  color: white;
   border-color: #2980b9;
 }
 
-.btn-img:hover img {
-  filter: brightness(0) invert(1); 
+.badge.noji:hover {
+  background: #3498db;
+  color: white;
 }
+
+.badge.studykit:hover {
+  background: #e67e22;
+  color: white;
+}
+
 
 /* Responsive for mobile */
 @media (max-width: 600px) {
@@ -98,12 +96,14 @@ h1 {
   h1 {
     font-size: 2rem;
   }
-  .btn-img {
-    width: 100px;
-    height: 50px;
+  .badge {
+    padding: 6px 12px;
+    min-width: 80px;
   }
-  .btn-img img {
-    width: 85px;
-    max-height: 40px;
+  .badge img {
+    width: 20px;
+  }
+  .badge span {
+    font-size: 0.85rem;
   }
 }
