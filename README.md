@@ -45,9 +45,7 @@ Just a way to share my links while also learning how to code (I died three times
 ---
 
 ## Made by
-
 Created with ❤️ by **missdireksyon**
 
 ## Want to Help?
-
 Contact me on **Discord**, **Github**, or even **Messenger** for more information.
