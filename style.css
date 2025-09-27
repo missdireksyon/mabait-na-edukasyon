@@ -6,7 +6,7 @@
 
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background: #f9f9fa;
+  background: #f7f9fc;
   color: #333;
   line-height: 1.6;
   padding: 20px;
@@ -21,7 +21,7 @@ h1 {
   text-align: center;
   margin-bottom: 30px;
   color: #2c3e50;
-  font-size: 2.5rem;
+  font-size: 2rem;
 }
 
 .subject {
@@ -45,77 +45,59 @@ h1 {
 }
 
 .subject p {
-  color: #0B1215;
+  color: black;
   font-style: italic;
   margin-bottom: 15px;
 }
 
-.badges {
+.buttons {
   display: flex;
-  gap: 16px;
+  gap: 10px;
   flex-wrap: wrap;
   justify-content: flex-start;
 }
 
-.badge {
-  display: inline-flex;
-  align-items: center;
-  gap: 8px;
+.btn {
+  display: inline-block;
   padding: 10px 20px;
-  background: white;
-  border: 2px solid #3498db;
   border-radius: 25px;
   text-decoration: none;
-  color: #333;
   font-weight: bold;
   transition: all 0.3s ease;
-  min-width: 120px; 
+  min-width: 90px;
   text-align: center;
+  border: 2px solid;
 }
 
-.badge img {
-  width: 50px;
-  height: auto;
-  vertical-align: middle;
+.btn-noji {
+  border-color: #3498db;
+  color: #3498db;
 }
 
-.badge span {
-  font-size: 0.9rem;
-}
-
-.badge:hover {
-  background: #3498db;
-  color: white;
-  border-color: #2980b9;
-}
-
-.badge.noji:hover {
+.btn-noji:hover {
   background: #3498db;
   color: white;
 }
 
-.badge.studykit:hover {
+.btn-studykit {
+  border-color: #e67e22;
+  color: #e67e22;
+}
+
+.btn-studykit:hover {
   background: #e67e22;
   color: white;
 }
 
-
-/* Responsive for mobile */
 @media (max-width: 600px) {
   .container {
     padding: 10px;
   }
   h1 {
-    font-size: 2rem;
+    font-size: 1.8rem;
   }
-  .badge {
-    padding: 6px 12px;
-    min-width: 80px;
-  }
-  .badge img {
-    width: 20px;
-  }
-  .badge span {
-    font-size: 0.85rem;
+  .btn {
+    padding: 8px 16px;
+    font-size: 0.9rem;
   }
 }
