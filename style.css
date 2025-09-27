@@ -45,7 +45,7 @@ h1 {
 }
 
 .subject p {
-  color: #000000;
+  color: #0B1215;
   font-style: italic;
   margin-bottom: 15px;
 }
@@ -54,26 +54,38 @@ h1 {
   display: flex;
   gap: 10px;
   flex-wrap: wrap;
-  justify-content: flex-start;
+  justify-content: flex-start; 
 }
 
-.btn {
+.btn-img {
   display: inline-block;
-  padding: 12px 24px;
-  background: #3498db;
-  color: white;
-  text-decoration: none;
+  padding: 10px;
+  background: white;
+  border: 2px solid #3498db;
   border-radius: 25px;
-  font-weight: bold;
   transition: all 0.3s ease;
-  min-width: 100px;
-  text-align: center;
+  width: 80px;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
 }
 
-.btn:hover {
-  background: #2980b9;
-  transform: scale(1.05);
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+.btn-img img {
+  width: 60px;
+  height: auto;
+  vertical-align: middle;
+  transition: filter 0.3s ease;
+}
+
+.btn-img:hover {
+  background: #3498db;
+  border-color: #2980b9;
+}
+
+.btn-img:hover img {
+  filter: brightness(0) invert(1);
 }
 
 /* Responsive for mobile */
@@ -84,8 +96,11 @@ h1 {
   h1 {
     font-size: 2rem;
   }
-  .btn {
-    width: 100%;
-    max-width: 250px;
+  .btn-img {
+    width: 70px;
+    height: 70px;
+  }
+  .btn-img img {
+    width: 50px;
   }
 }
