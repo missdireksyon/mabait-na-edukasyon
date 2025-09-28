@@ -9,7 +9,7 @@ Just a way to share my links while also learning how to code (I died three times
 ### 🏀 PHYSICAL ACTIVITIES TOWARDS HEALTH AND FITNESS
 - [Noji](https://noji.io/shared_deck/v2_kWVbD43xLc_8483595)  
 - [Studykit](https://studykit.app/decks/d8e47752-eed8-4c6d-8856-ae21799564ca)
-- Gizmo (Pending)
+- [Gizmo](https://gizmo.ai/deck/46576794)
 - Anki (Pending)
 
 ### 🌐 WEBSYSTEMS AND TECHNOLOGIES
@@ -34,7 +34,7 @@ Just a way to share my links while also learning how to code (I died three times
 ⤷ **The Structure and Theories of Globalization**
 - [Noji](https://noji.io/shared_deck/v2_4TGVTmnoLX_8483595)  
 - [Studykit](https://studykit.app/decks/267a5dab-f9ae-4474-9399-2d40f8eca4a9)
-- Gizmo (Pending)
+- [Gizmo](https://gizmo.ai/deck/46544264)
 - Anki (Pending)
   
 ⤷ **Facilitators of Globalization**
