@@ -21,7 +21,7 @@ Just a way to share my links while also learning how to code (I died three times
 ### ⚖️ ETHICS
 > *(Coming soon)*
 
-### 🇵🇭 RIZAL
+### 🇵🇭 THE LIFE AND WORKS OF RIZAL
 > *(Coming soon)*
 
 ### 🌏 THE CONTEMPORARY WORLD
