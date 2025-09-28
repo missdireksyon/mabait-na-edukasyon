@@ -109,6 +109,18 @@ h1 {
   color: white;
 }
 
+.btn-gizmo {
+  border-color:#F8DF09;
+  color:#F8DF09;
+  
+} 
+
+.bth-gizmo:hover {
+  border-color:#F8DF09;
+  color: white;
+
+}
+
 /* View on GitHub Button */
 .github-link {
   text-align: center;
