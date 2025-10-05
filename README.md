@@ -10,7 +10,7 @@
 
 ### 🌳 CIVIC WELFARE TRAINING SERVICE
 ⤷ Introduction to NSTP, Citizenship, Leadership and Good Governance, National Security and Crime Prevention, Character Building and Values Formation, and Ecological Solid Waste Management and Soil Preparation Composting
-[Noji](https://noji.io/shared_deck/v2_KEPzurWgoG_8483595))
+- [Noji](https://noji.io/shared_deck/v2_KEPzurWgoG_8483595)
 
 ### 🏀 PHYSICAL ACTIVITIES TOWARDS HEALTH AND FITNESS
 - [Noji](https://noji.io/shared_deck/v2_kWVbD43xLc_8483595)  
