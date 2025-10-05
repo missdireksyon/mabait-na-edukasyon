@@ -1,5 +1,10 @@
 # maBAIT na Edukasyon: Flashcards
-Just a way to share my links while also learning how to code (I died three times while doing this). ENJOY
+---
+**Feature of the Day:** Custom Windows 10/11 Folder Icons
+- [Google Drive](https://drive.google.com/drive/folders/1sAmxzUzE16S3CbylajU8XxTfl46A-fC7?usp=sharing)
+- [Original Inspiration](https://github.com/icon11-community/Folder11)
+
+---
 
 ## ★ Midterm Subjects ★
 
