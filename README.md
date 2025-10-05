@@ -53,16 +53,16 @@
 ---
 
 ## ★ Possible FAQs ★
-###❓Why did you make a whole repository/website for this?
+#### ❓Why did you make a whole repository/website for this?
 Actually I didn't really want to but this is the best way for me to learn how to code as well as be able to share my flashcard links I worked so hard for.
 
-###❓Are these links free to use?
+#### ❓Are these links free to use?
 Yes, all links go directly to shared decks but may **require sign-up** to use.
 
-###❓Will you add more subjects later?
+#### ❓Will you add more subjects later?
 Only the ones listed will be addded sooner or later. Anything else besides that I can no longer guarantee.
 
-###❓Will you share them on Kahoot, Quizlet, Quizziz, Google Forms, and other apps or sites?**
+#### ❓Will you share them on Kahoot, Quizlet, Quizziz, Google Forms, and other apps or sites?**
 I will only share them on Noji, StudyKit, Gizmo, ~~and Anki.~~ You may, however, download the decks and import them into your app or site of your choosing.
 
 ---
