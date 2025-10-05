@@ -63,7 +63,7 @@ Yes, all links go directly to shared decks but may **require sign-up** to use.
 Only the ones listed will be addded sooner or later. Anything else besides that I can no longer guarantee.
 
 ####❓Will you share them on Kahoot, Quizlet, Quizziz, Google Forms, and other apps or sites?**
-I will only share them on Noji, StudyKit, Gizmo, and Anki. You may, however, download the decks and import them into your app or site of your choosing.
+I will only share them on Noji, StudyKit, Gizmo, ~~and Anki.~~ You may, however, download the decks and import them into your app or site of your choosing.
 
 ---
 
