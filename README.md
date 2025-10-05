@@ -1,6 +1,6 @@
 # maBAIT na Edukasyon: Flashcards
 ---
-**✨ Feature of the Day:** Custom Windows 10/11 Folder Icons
+**✨ Feature of the Day:** Custom Windows 10/11 Folder Icons (For personal purposes only)
 - [Google Drive](https://drive.google.com/drive/folders/1sAmxzUzE16S3CbylajU8XxTfl46A-fC7?usp=sharing)
 - [Original Inspiration](https://github.com/icon11-community/Folder11)
 
